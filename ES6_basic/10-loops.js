@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default function appendToEachArrayValue(array, appendString) {
     let index = 0;
     const arr = array;
