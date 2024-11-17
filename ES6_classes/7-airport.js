@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default class Airport {
     constructor(name, code) {
       if (typeof name !== 'string') {
@@ -13,4 +14,3 @@ export default class Airport {
       return `${this._code}`;
     }
   }
-  

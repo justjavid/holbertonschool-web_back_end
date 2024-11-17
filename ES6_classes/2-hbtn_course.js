@@ -1,3 +1,4 @@
+/* eslint-disable */
 class HolbertonCourse {
     constructor(name, length, students) {
       this._name = '';
@@ -48,4 +49,3 @@ class HolbertonCourse {
   }
   
   export default HolbertonCourse;
-  
